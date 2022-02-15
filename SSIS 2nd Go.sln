@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS 2nd Go", "SSIS 2nd Go\SSIS 2nd Go.dtproj", "{4DEE371B-ED33-423A-8C1C-AA16831184EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEE371B-ED33-423A-8C1C-AA16831184EF}.Development|Default.ActiveCfg = Development
+		{4DEE371B-ED33-423A-8C1C-AA16831184EF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9B80A0B-0601-4A88-8A82-8E4263774418}
+	EndGlobalSection
+EndGlobal
